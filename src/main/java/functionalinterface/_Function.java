@@ -9,7 +9,7 @@ public class _Function {
         System.out.println(increment);
 
         int increment2 = incrementByOneFunction.apply(1);
-        System.out.println(increment2);
+        System.out.println(increment2); // senf
     }
 
 
